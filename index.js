@@ -8,6 +8,8 @@ const knex = require("knex")({
 
 const app = express();
 
+app.set("trust proxy", "uniquelocal");
+
 app.use(helmet());
 app.use(morgan("common"));
 app.use(express.json());
