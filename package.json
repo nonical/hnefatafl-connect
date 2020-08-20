@@ -21,13 +21,13 @@
   "dependencies": {
     "express": "^4.17.1",
     "helmet": "^3.23.3",
-    "knex": "^0.21.2",
+    "knex": "^0.21.5",
     "morgan": "^1.10.0",
-    "pg": "^8.3.0"
+    "pg": "^8.3.2"
   },
   "devDependencies": {
     "dotenv": "^8.2.0",
-    "eslint": "^7.4.0",
+    "eslint": "^7.7.0",
     "nodemon": "^2.0.4"
   }
 }
