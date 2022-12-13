@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/nonical/hnefatafl-connect#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "helmet": "^3.23.3",
     "knex": "^0.21.5",
     "morgan": "^1.10.0",
